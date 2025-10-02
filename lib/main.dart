@@ -24,7 +24,7 @@ class MergeHome extends StatefulWidget {
 }
 
 class _MergeHomeState extends State<MergeHome> {
-  String title = 'Hello new4';
+  String title = 'Hello news2';
 
   int counter = 0;
 
